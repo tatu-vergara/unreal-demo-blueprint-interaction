@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/pandr/OneDrive/Documentos/Unreal Projects/Test4/Content/Blueprints/BP_InteractableCube.uasset",
+				"C:/Users/pandr/OneDrive/Documentos/Unreal Projects/Test4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/GB/NMR315MAZBYLRNDNODEIJ6.uasset",
+				"C:/Users/pandr/OneDrive/Documentos/Unreal Projects/Test4/Content/Materials/M_Red.uasset",
+				"C:/Users/pandr/OneDrive/Documentos/Unreal Projects/Test4/Content/Materials/M_Blue.uasset",
+				"C:/Users/pandr/OneDrive/Documentos/Unreal Projects/Test4/Content/UI/WBP_Interact.uasset"
+			]
+		}
+	]
+}
